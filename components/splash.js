@@ -8,7 +8,7 @@ const Splash = () => {
       <View style={styles.button}>
         <TouchableOpacity style={styles.insidebutton}>
             <Text style={styles.getstarted}>
-                Get Started
+                GET STARTED
             </Text>
             <AntDesign name="rightcircle" size={48} color="black" />
         </TouchableOpacity>
@@ -43,6 +43,7 @@ const styles = StyleSheet.create({
   },
   insidebutton:{
     flexDirection: 'row',
-    alignItems: 'center'
+    alignItems: 'center',
+    justifyContent: 'center'
   }
 });

@@ -3,11 +3,18 @@ import React from 'react'
 import Loading from './components/loading'
 import Splash from './components/splash'
 import Home from './components/home'
+import Maps from './components/find'
+import Wallet from './components/wallet'
+import Profile from './components/profile'
+
+// import { Navigator } from '@react-navigation/native';
+// import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+// const Tab = createBottomTabNavigator();
 
 const App = () => {
   return (
-    <View style={styles.container}>
-      <Home />
+    <View>
+      <Profile/>
       <StatusBar style="auto" />
     </View>
   )

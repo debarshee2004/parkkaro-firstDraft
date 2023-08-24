@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, StatusBar } from 'react-native'
+import { StyleSheet, Text, View, StatusBar, TouchableOpacity } from 'react-native'
 import React from 'react'
 import { MaterialCommunityIcons } from '@expo/vector-icons'; 
 import { Ionicons } from '@expo/vector-icons'; 
@@ -11,9 +11,13 @@ const Home = () => {
 
       <View style={styles.header}>
         <View style={styles.title}>
-          <Ionicons name="menu" size={35} color="white" />
+          <TouchableOpacity>
+            <Ionicons name="menu" size={35} color="white" />
+          </TouchableOpacity>
           <Text style={styles.home}>Home</Text>
-          <AntDesign name="github" size={35} color="white" />
+          <TouchableOpacity>
+            <AntDesign name="github" size={35} color="white" />
+          </TouchableOpacity>
         </View>
         <View style={styles.namebox}>
           <Text style={styles.name}>Hello James!</Text>
@@ -21,10 +25,12 @@ const Home = () => {
       </View>
 
       <View style={styles.seachbar}>
-        <Text style={styles.home}>Where to Park?</Text>
-        <View>
+        <TouchableOpacity>
+          <Text style={styles.home}>Where to Park?</Text>
+        </TouchableOpacity>
+        <TouchableOpacity>
           <Ionicons name="car-sport" size={35} color="white" />
-        </View>
+        </TouchableOpacity>
       </View>
 
       <View style={styles.history}>
@@ -43,9 +49,9 @@ const Home = () => {
         <Text style={styles.home}>
           How're ya feeling?
         </Text>
-        <View>
+        <TouchableOpacity>
           <MaterialCommunityIcons name="bell-circle" size={35} color="white" />
-        </View>
+        </TouchableOpacity>
       </View>
 
       <StatusBar style="auto" />

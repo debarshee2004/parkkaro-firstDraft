@@ -15,9 +15,9 @@
 
 - [Description](#description)
 - [Contributors](#contributors)
-- [Key Features](#key_features)
-- [Tech Stack](#tech_stack)
-- [The Parking Problem in India](#the_parking_problem_in_india)
+- [Key Features](#key-features)
+- [Tech Stack](#tech-stack)
+- [The Parking Problem in India](#the-parking-problem-in-india)
 - [License](#license)
 
 ## Description📝
@@ -108,3 +108,11 @@ The parking problem in India is a complex and widespread issue that affects urba
 11. **Environmental Impact**: The increased number of vehicles, coupled with inefficient parking management, contributes to air and noise pollution and worsens the urban environment.
 
 To address the parking problem in India, a multi-faceted approach is necessary. This could include city planning that prioritizes parking infrastructure, implementing stricter parking regulations and enforcement, promoting the use of public transportation, adopting technology-based parking solutions, encouraging carpooling and shared mobility options, and raising awareness about responsible parking behavior among citizens.
+
+## License
+
+The ParkEase application is distributed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code as per the terms of the license.
+
+---
+
+Feel free to explore the ParkEase repository and contribute to making urban parking a hassle-free experience for everyone. If you have any questions, concerns, or feedback, please don't hesitate to get in touch with us via the Issues section or by contacting the project maintainers. Happy parking! 🚗💨

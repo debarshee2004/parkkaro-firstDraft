@@ -35,6 +35,8 @@ In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leadi
 **API:** Subhadip Santra and Sohom Banerjee<br/>
 **Documentation:** Debarshee Chakraborty
 
+[License](#license)
+
 ## Key Features📌
 
 1. **Real-Time Parking Availability:** Provide users with real-time information about available parking spaces in different areas, helping them find parking spots more easily and reducing the time spent searching for a spot.
@@ -43,7 +45,7 @@ In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leadi
 
 3. **Reservation and Booking:** Allow users to reserve and book parking spots in advance. This feature is particularly helpful during peak hours or for events, ensuring users have a guaranteed parking space.
 
-4. **Parking Lot Navigation:** Integrate indoor mapping within parking structures to guide users to available spots and exits through a user-friendly navigation interface.
+4. **Parking Lot Navigation:** Integrated indoor mapping within parking structures to guide users to available spots and exits through a user-friendly navigation interface.
 
 5. **Payment Integration:** Enable users to pay for parking through the app using various payment methods such as credit/debit cards, digital wallets, or mobile payment systems.
 
@@ -51,21 +53,19 @@ In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leadi
 
 7. **Notifications:** Send notifications to users regarding their parking reservations, expiration times, and any relevant updates about the parking facility.
 
-8. **Parking Spot Sharing:** Allow users to share their parking spots with others if they are leaving a parking area before their reservation time expires.
+8. **Parking Rates and Discounts:** Display accurate pricing information for different parking facilities, along with any available discounts, helping users make informed decisions.
 
-9. **Parking Rates and Discounts:** Display accurate pricing information for different parking facilities, along with any available discounts, helping users make informed decisions.
+9. **Feedback and Ratings:** Enable users to provide feedback on their parking experience, including ratings for parking facilities, helping others choose the best spots.
 
-10. **Feedback and Ratings:** Enable users to provide feedback on their parking experience, including ratings for parking facilities, helping others choose the best spots.
+10. **Security Features:** Assure users of the safety of their vehicles by providing information about security measures in place, such as surveillance cameras and security personnel.
 
-11. **Security Features:** Assure users of the safety of their vehicles by providing information about security measures in place, such as surveillance cameras and security personnel.
+11. **Multi-City Support:** This app spans multiple cities, include a feature that lets users search for parking options in different locations.
 
-12. **Multi-City Support:** If your app spans multiple cities, include a feature that lets users search for parking options in different locations.
+12. **User Profiles:** Allow users to create profiles to manage their parking history, payment methods, and preferences.
 
-13. **User Profiles:** Allow users to create profiles to manage their parking history, payment methods, and preferences.
+13. **Support and Help:** Provide a help center or customer support feature to assist users with any issues they might encounter.
 
-14. **Support and Help:** Provide a help center or customer support feature to assist users with any issues they might encounter.
-
-15. **Integration with Navigation Apps:** Integrate with popular navigation apps to seamlessly guide users from their current location to the selected parking spot.
+14. **Integration with Navigation Apps:** Integrate with popular navigation apps to seamlessly guide users from their current location to the selected parking spot.
 
 ## Tech Stack💻
 

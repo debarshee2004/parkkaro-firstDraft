@@ -11,6 +11,15 @@
 [![Generic badge](https://img.shields.io/badge/Track-Android-Green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Theme-Open_Inovation-yellow.svg)](https://shields.io/)
 
+## Table of Contents
+
+- [Description](#description)
+- [Contributors](#contributors)
+- [Key Features](#key_features)
+- [Tech Stack](#tech_stack)
+- [The Parking Problem in India](#the_parking_problem_in_india)
+- [License](#license)
+
 ## Description📝
 
 In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leading ta Parking Problem in India. To combat this issue we introduce you to "ParkEase" a very simple and easy to use app which will take care of your Parking Problems.

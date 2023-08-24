@@ -3,17 +3,76 @@
 </div>
 <br/>
 
-# PARKEASE
+# ParkEase-An innovation to solve the parking problem in India©
 
-## An innovation to solve the parking problem in India
+[![Generic badge](https://img.shields.io/badge/Lisence-MIT-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Completed-NO-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Contributor-04-Green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Track-Android-Green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Theme-Open_Inovation-yellow.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/COMPLETED-NO-red.svg)](https://shields.io/)
+## Description📝
 
-## Description
+In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leading ta Parking Problem in India. To combat this issue we introduce you to "ParkEase" a very simple and easy to use app which will take care of your Parking Problems.
 
-In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leading ta Parking Problem in India.
+## Contributors👷‍♂️
 
-## The Parking Problem in India
+**Concept:** Promit Chaudhury and Subhadip Santra<br/>
+**Design:** Pomit Chaudhury<br/>
+**Frontend:** Debarshee Chakraborty<br/>
+**Backend:** Promit Chaudury<br/>
+**API:** Subhadip Santra and Sohom Banerjee<br/>
+**Documentation:** Debarshee Chakraborty
+
+## Key Features📌
+
+1. **Real-Time Parking Availability:** Provide users with real-time information about available parking spaces in different areas, helping them find parking spots more easily and reducing the time spent searching for a spot.
+
+2. **Location Tracking:** Utilize GPS to guide users to the nearest available parking facilities, ensuring they reach their destination efficiently.
+
+3. **Reservation and Booking:** Allow users to reserve and book parking spots in advance. This feature is particularly helpful during peak hours or for events, ensuring users have a guaranteed parking space.
+
+4. **Parking Lot Navigation:** Integrate indoor mapping within parking structures to guide users to available spots and exits through a user-friendly navigation interface.
+
+5. **Payment Integration:** Enable users to pay for parking through the app using various payment methods such as credit/debit cards, digital wallets, or mobile payment systems.
+
+6. **Digital Parking Pass:** Replace traditional paper parking tickets with digital passes that users can access and display on their smartphones.
+
+7. **Notifications:** Send notifications to users regarding their parking reservations, expiration times, and any relevant updates about the parking facility.
+
+8. **Parking Spot Sharing:** Allow users to share their parking spots with others if they are leaving a parking area before their reservation time expires.
+
+9. **Parking Rates and Discounts:** Display accurate pricing information for different parking facilities, along with any available discounts, helping users make informed decisions.
+
+10. **Feedback and Ratings:** Enable users to provide feedback on their parking experience, including ratings for parking facilities, helping others choose the best spots.
+
+11. **Security Features:** Assure users of the safety of their vehicles by providing information about security measures in place, such as surveillance cameras and security personnel.
+
+12. **Multi-City Support:** If your app spans multiple cities, include a feature that lets users search for parking options in different locations.
+
+13. **User Profiles:** Allow users to create profiles to manage their parking history, payment methods, and preferences.
+
+14. **Support and Help:** Provide a help center or customer support feature to assist users with any issues they might encounter.
+
+15. **Integration with Navigation Apps:** Integrate with popular navigation apps to seamlessly guide users from their current location to the selected parking spot.
+
+## Tech Stack💻
+
+1. **React Native:**
+   React Native is a popular open-source framework for building mobile applications using JavaScript and React. It allows developers to create native mobile apps for both iOS and Android platforms using a single codebase. By leveraging a component-based architecture, React Native enables the development of rich, responsive, and visually appealing mobile apps that closely resemble native applications.
+
+2. **ExpressJS:**
+   Express.js is a minimal and flexible web application framework for Node.js. It simplifies the process of building robust and scalable web applications and APIs by providing a range of essential features and tools. Express.js offers a straightforward way to handle routing, middleware, request handling, and response management, making it a preferred choice for developers when building server-side components of web applications.
+
+3. **MongoDB:**
+   MongoDB is a widely used NoSQL database system known for its flexibility and scalability. It stores data in a document-oriented format using JSON-like documents, which allows for dynamic and schema-less data storage. MongoDB is suitable for applications requiring agile development, as it accommodates changes in data structure easily and can handle large amounts of data while providing high performance.
+
+4. **Node.js:**
+   Node.js is a JavaScript runtime built on the V8 JavaScript engine. It enables developers to execute JavaScript code on the server side, rather than just in web browsers. Node.js excels in building scalable and high-performance applications due to its asynchronous, event-driven architecture. It's often used to build backend services, APIs, and real-time applications.
+
+These technologies, when used together, form a powerful stack for developing modern web and mobile applications. React Native allows you to create a unified mobile app experience, while ExpressJS and Node.js provide the backend infrastructure for handling requests and data processing. MongoDB offers a flexible and scalable database solution that complements the needs of dynamic and growing applications. This stack is known for its efficiency, ease of use, and ability to handle both frontend and backend development using JavaScript, streamlining the development process.
+
+## The Parking Problem in India🚕
 
 The parking problem in India is a complex and widespread issue that affects urban areas across the country. Rapid urbanization, population growth, and increased vehicle ownership have exacerbated the challenges associated with parking. Here's an overview of the parking problem in India:
 

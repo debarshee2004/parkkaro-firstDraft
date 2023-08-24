@@ -65,8 +65,6 @@ In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leadi
 
 13. **Support and Help:** Provide a help center or customer support feature to assist users with any issues they might encounter.
 
-14. **Integration with Navigation Apps:** Integrate with popular navigation apps to seamlessly guide users from their current location to the selected parking spot.
-
 ## Tech Stack💻
 
 1. **React Native:**

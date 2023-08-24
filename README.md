@@ -18,6 +18,8 @@
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [The Parking Problem in India](#the-parking-problem-in-india)
+- [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
 
 ## Description📝
@@ -108,6 +110,45 @@ The parking problem in India is a complex and widespread issue that affects urba
 11. **Environmental Impact**: The increased number of vehicles, coupled with inefficient parking management, contributes to air and noise pollution and worsens the urban environment.
 
 To address the parking problem in India, a multi-faceted approach is necessary. This could include city planning that prioritizes parking infrastructure, implementing stricter parking regulations and enforcement, promoting the use of public transportation, adopting technology-based parking solutions, encouraging carpooling and shared mobility options, and raising awareness about responsible parking behavior among citizens.
+
+## Installation
+
+To set up the ParkEase application locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/debarshee2004/ParkEase.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd ParkEase
+   ```
+
+3. Install the required dependencies. It's recommended to use a virtual environment:
+
+   ```bash
+   # Example using virtualenv
+   virtualenv venv
+   source venv/bin/activate (Unix) or venv\Scripts\activate (Windows)
+   pip install -r requirements.txt
+   ```
+
+4. Configure the necessary environment variables. You might need to set up database connection details, API keys, and other configuration options.
+
+5. Run the application:
+
+   ```bash
+   npm start
+   ```
+
+6. Access the application by opening a web browser and navigating to `http://localhost:8000`.
+
+## Usage
+
+For detailed usage instructions and guides, please refer to the [User Guide](user_guide.md) and [Admin Guide](admin_guide.md) provided in the repository.
 
 ## License
 

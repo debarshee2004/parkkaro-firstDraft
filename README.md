@@ -28,17 +28,17 @@ In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leadi
 
 ## Contributors👷‍♂️
 
+[Promit Chaudari](https://github.com/ProSkywalker16) Captain <br/>
+[Debarshee Chakraborty](https://github.com/debarshee2004) <br/>
+[Subhadip Santra](https://github.com/Subhadip05Santra) <br/>
+[Soham Bannerjee](https://github.com/sohambanerjee10) <br/>
+
 **Concept:** Promit Chaudhuri and Subhadip Santra<br/>
 **Design:** Promit Chaudhuri<br/>
 **Frontend:** Debarshee Chakraborty<br/>
 **Backend:** Promit Chauduri<br/>
 **API:** Subhadip Santra and Soham Banerjee<br/>
 **Documentation:** Debarshee Chakraborty
-
-[Promit Chaudari](https://github.com/ProSkywalker16) <br/>
-[Debarshee Chakraborty](https://github.com/debarshee2004) <br/>
-[Subhadip Santra](https://github.com/Subhadip05Santra) <br/>
-[Soham Bannerjee](https://github.com/sohambanerjee10) <br/>
 
 
 ## Key Features📌

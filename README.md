@@ -35,10 +35,10 @@ In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leadi
 **API:** Subhadip Santra and Soham Banerjee<br/>
 **Documentation:** Debarshee Chakraborty
 
-[Promit Chaudari](https://github.com/ProSkywalker16)
-[Debarshee Chakraborty](https://github.com/debarshee2004)
-[Subhadip Santra](https://github.com/Subhadip05Santra)
-[Soham Bannerjee](https://github.com/sohambanerjee10)
+[Promit Chaudari](https://github.com/ProSkywalker16) <br/>
+[Debarshee Chakraborty](https://github.com/debarshee2004) <br/>
+[Subhadip Santra](https://github.com/Subhadip05Santra) <br/>
+[Soham Bannerjee](https://github.com/sohambanerjee10) <br/>
 
 
 ## Key Features📌

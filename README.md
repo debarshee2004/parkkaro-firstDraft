@@ -7,7 +7,7 @@
 
 [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Completed-NO-red.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Contributor-04-Green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Active_Contributor-04-Green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Track-Android-Green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Theme-Open_Inovation-yellow.svg)](https://shields.io/)
 

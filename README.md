@@ -5,7 +5,7 @@
 
 # ParkEase-An innovation to solve the parking problem in India©
 
-[![Generic badge](https://img.shields.io/badge/Lisence-MIT-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Completed-NO-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Contributor-04-Green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Track-Android-Green.svg)](https://shields.io/)
@@ -28,14 +28,18 @@ In 2022 a total of 3.793 million or 37.93 lakh vehicles were sold. This is leadi
 
 ## Contributors👷‍♂️
 
-**Concept:** Promit Chaudhury and Subhadip Santra<br/>
-**Design:** Pomit Chaudhury<br/>
+**Concept:** Promit Chaudhuri and Subhadip Santra<br/>
+**Design:** Promit Chaudhuri<br/>
 **Frontend:** Debarshee Chakraborty<br/>
-**Backend:** Promit Chaudury<br/>
-**API:** Subhadip Santra and Sohom Banerjee<br/>
+**Backend:** Promit Chauduri<br/>
+**API:** Subhadip Santra and Soham Banerjee<br/>
 **Documentation:** Debarshee Chakraborty
 
-[License](#license)
+[Promit Chaudari](https://github.com/ProSkywalker16)
+[Debarshee Chakraborty](https://github.com/debarshee2004)
+[Subhadip Santra](https://github.com/Subhadip05Santra)
+[Soham Bannerjee](https://github.com/sohambanerjee10)
+
 
 ## Key Features📌
 

@@ -13,15 +13,15 @@
 
 ## Table of Contents
 
-- [Problem of Car Parking in India](#problem-of-car-parking-in-india🚕)
-- [Description of the Solution](#description-of-the-solution🎯)
-- [How does it work](#how-does-it-work🎬)
-- [How will it work for User and Admins](#how-will-it-work-for-user-and-admins🎓)
-- [Demonstration](#demonstration⌛)
-- [Technologies](#technologies💻)
-- [Contribution](#contribution👷‍♂️)
-- [License](#license📌)
-- [Conclusion](#conclusion👋)
+- [Problem of Car Parking in India](#problem-of-car-parking-in-india)
+- [Description of the Solution](#description-of-the-solution)
+- [How does it work](#how-does-it-work)
+- [How will it work for User and Admins](#how-will-it-work-for-user-and-admins)
+- [Demonstration](#demonstration)
+- [Technologies](#technologies)
+- [Contribution](#contribution)
+- [License](#license)
+- [Conclusion](#conclusion)
 
 ## Problem of Car Parking in India🚕
 

@@ -1,9 +1,4 @@
-<div align="center">
- <kbd><img src="./Logo.png" width="" height="300"/></kbd>
-</div>
-<br/>
-
-# ParkEase-An innovation to solve the parking problem in India©
+# ParkKaro-An innovation to solve the parking problem in India©
 
 [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Completed-NO-red.svg)](https://shields.io/)
